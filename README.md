@@ -25,15 +25,15 @@ Resources can be found in the apex-mockery repository:
 
 ### Step 1 
 
-Follow instructions from [AccountServiceTestStep1.cls](/force-app/test/default/classes/AccountServiceTestStep1.cls)
+Follow instructions from [AccountServiceTestExercise1.cls](/force-app/test/default/classes/AccountServiceTestExercise1.cls)
 
 ### Step 2
 
-Follow instructions from [AccountServiceTestStep2.cls](/force-app/test/default/classes/AccountServiceTestStep2.cls)
+Follow instructions from [AccountServiceTestExercise2.cls](/force-app/test/default/classes/AccountServiceTestExercise2cls)
 
 ### Step 3
 
-Follow instructions from [AccountServiceTestStep3.cls](/force-app/test/default/classes/AccountServiceTestStep3.cls)
+Follow instructions from [AccountServiceTestExercise3.cls](/force-app/test/default/classes/AccountServiceTestExercise3cls)
 
 
 
