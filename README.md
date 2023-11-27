@@ -19,11 +19,21 @@ This repository contains everything you need to have and to do to go through the
 
 ## Hands on walkthrough
 
+Resources can be found in the apex-mockery repository:
+- Samples can be found in the [recipes](https://github.com/salesforce/apex-mockery#recipes)
+- library APIs can be found in the [Usage](https://github.com/salesforce/apex-mockery#usage)
+
 ### Step 1 
+
+Follow instructions from [AccountServiceTestStep1.cls](/force-app/test/default/classes/AccountServiceTestStep1.cls)
 
 ### Step 2
 
+Follow instructions from [AccountServiceTestStep2.cls](/force-app/test/default/classes/AccountServiceTestStep2.cls)
+
 ### Step 3
+
+Follow instructions from [AccountServiceTestStep3.cls](/force-app/test/default/classes/AccountServiceTestStep3.cls)
 
 
 

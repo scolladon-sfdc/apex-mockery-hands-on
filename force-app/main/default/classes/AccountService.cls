@@ -1,7 +1,12 @@
 public inherited sharing class AccountService {
   protected SObjectRepository repository;
 
-  public AccountService(final SObjectRepository repository) {
+  public AccountService() {
+    this(new DMLSObjectRepository());
+  }
+
+  @TestVisible
+  private AccountService(final SObjectRepository repository) {
     this.repository = repository;
   }
 
